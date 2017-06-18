@@ -1,5 +1,5 @@
 app-demo-001:
-  version: 2.0.1
+  version: 2.0.2
   md5_hash: 50222c429471770dd2ac75cd7b27fe75
   artefactname: app-demo-001
   mule_target: apig
