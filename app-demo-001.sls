@@ -41,4 +41,4 @@ app-demo-001:
       api_token: jlgkjfdlkjgdflgkjfdlgkjdfglkdfjglkdfjglkdfjglfkdjgfdlkjgfdlkjg
       host: some.type.of.wonderful.co.nz
       path: /api/reasons
-  version: 0.0.2
+  version: 0.0.3
